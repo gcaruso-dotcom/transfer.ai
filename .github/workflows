@@ -1,0 +1,8 @@
+.github/
+├── workflows/
+│   ├── ci.yml
+│   ├── deploy-staging.yml
+│   └── deploy-production.yml
+└── scripts/
+    ├── deploy.sh
+    └── health-check.sh
